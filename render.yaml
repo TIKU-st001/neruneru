@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: you
+    name: neruneru
     env: python
     region: Oregon
     plan: free
